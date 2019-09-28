@@ -20,3 +20,16 @@
 .App-link {
   color: #09d3ac;
 }
+
+.margin_ {
+  margin-left: -5rem;
+}
+
+.margin_1 {
+  margin-left: -3.5rem;
+}
+
+thead {
+  background-color: #566573;
+  color: white;
+}
